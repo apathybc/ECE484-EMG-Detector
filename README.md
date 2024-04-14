@@ -1,1 +1,2 @@
 # ECE484-EMG-Detector
+A muscle sensor gets a reading from 0-1023 based on how hard the area that is being looked at is flexed. When no movement is detected the reading will be 0, while flexing in the area happens the reading will increase based on how hard you are flexing. Here is a link to a data: [Three-Lead EMG sensor datasheet.](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Biometric/Muscle%20Sensor%20v3%20Users%20Manual.pdf)
