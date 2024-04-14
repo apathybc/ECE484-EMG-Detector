@@ -1,6 +1,7 @@
 /*
  * Input: Analog pin 0
  * Output: Digital pin 2
+ * I tried my best to fix the code that I found, but the implementing method I could not fix, my apologies
  */
 #include <stdio.h>`
 #include <avr/io.h>
